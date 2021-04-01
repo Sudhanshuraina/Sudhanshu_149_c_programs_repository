@@ -1,5 +1,4 @@
-sudhanshu raina
-#include<stdio.h>
+ #include<stdio.h>
  
 int main(){
    int n, first = 0, second = 1, next, c; //For the reference to the formuls of the series.
